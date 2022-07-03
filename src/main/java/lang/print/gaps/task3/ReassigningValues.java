@@ -2,12 +2,12 @@ package lang.print.gaps.task3;
 
 public class ReassigningValues {
     public static void main(String[] args) {
-        int first = 15;
+        int first = 1;
         System.out.println("first");
-        int second = 6;
+        int second = 10;
         System.out.println("second");
-        int third = 4;
+        int third = 100;
         System.out.println("third");
-        
+
     }
 }
